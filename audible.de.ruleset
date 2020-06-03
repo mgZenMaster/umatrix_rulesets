@@ -1,0 +1,7 @@
+audible.de akt.audiencemanager.de script allow
+audible.de audiblecdns3prod-vh.akamaihd.net xhr allow
+audible.de images-eu.ssl-images-amazon.com script allow
+audible.de images-na.ssl-images-amazon.com frame allow
+audible.de images-na.ssl-images-amazon.com script allow
+audible.de m.media-amazon.com script allow
+audible.de unagi-eu.amazon.com other allow
